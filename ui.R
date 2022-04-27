@@ -5,9 +5,9 @@
 # Load in header, sidebar, and body components.
 ################################################################################
 
-source('./Components/header.R')
-source('./Components/sidebar.R')
-source('./Components/body.R')
+source('./Component/header.R')
+source('./Component/sidebar.R')
+source('./Component/body.R')
 
 ui <- dashboardPage(
   skin = "black",

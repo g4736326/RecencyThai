@@ -14,5 +14,8 @@ library(ggsci)
 #############
 # Data Load #
 #############
-githubURL <- "https://github.com/NartladaC/CovidFeverData/raw/main/Data/CFDashboard.RData"
+githubURL <- "https://github.com/g4736326/RecencyData/raw/main/RCDashboard.RData"
 load(url(githubURL))
+
+
+
